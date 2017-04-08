@@ -202,7 +202,7 @@ $_old_files = array(
 'wp-includes/js/tinymce/plugins/wordpress/js',
 'wp-includes/streams.php',
 // MU
-'README.txt',
+'LOGIN.txt',
 'htaccess.dist',
 'index-install.php',
 'wp-admin/css/mu-rtl.css',
