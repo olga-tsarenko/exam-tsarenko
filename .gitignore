@@ -18,6 +18,7 @@ sitemap.xml.gz
 # @TODO writable paths
 wp-content/cache/
 wp-content/backups/
+.idea
 
 
 # Packages #

@@ -1,0 +1,47 @@
+.site-header {
+    .header-block {
+        @include clearfix;
+        padding: 18px 0;
+        .site-branding {
+            float: left;
+        }
+        .main-navigation {
+            float: right;
+            width: auto;
+            clear: none;
+            padding-top: 18px;
+            ul {
+
+                @include clearfix;
+                li {
+                    padding: 0 10px;
+                    a {
+                        font-size: 18px;
+                        font-weight: 400;
+                        text-transform: uppercase;
+                        color: #ffffff;
+                        &:hover {
+                            text-decoration: none;
+                            color: #ff4848;;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .title-part{
+        text-align: center;
+        background: url("../image/zebra.png") no-repeat center;
+        background-size: cover;
+        padding: 88px 0;
+        margin: 0;
+
+    .page-header {
+        border: none;
+        color: #ffffff;
+        text-transform: uppercase;
+
+
+    }
+}
+}
